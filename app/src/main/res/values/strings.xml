@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Instagram clone</string>
+    <string name="hint_password">password</string>
+    <string name="sign_up_button">sign up</string>
+    <string name="hint_username">Username</string>
+    <string name="login_textView">or, Login</string>
+    <string name="logo_image">image</string>
+</resources>
